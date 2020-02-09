@@ -1,6 +1,9 @@
-Hy This File is newly created 
-This is the line for first commit..
+<h1> Heading for first line.</h1>
 
-Line is change again
-And this is another line 
-Almost full file is changed...
+The line for first heading..
+
+<h2> Heading for second Line .... </h2>
+
+The line for second heading....
+
+
